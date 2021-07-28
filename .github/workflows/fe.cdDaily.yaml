@@ -1,6 +1,6 @@
 name: FE Project CI
 
-on:
+true:
   workflow_dispatch:
     inputs:
       version:
