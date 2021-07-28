@@ -1,4 +1,4 @@
-name: FE Project CI
+name: FE Project CI ${{github.event.inputs.run_uuid}}
 
 on:
   workflow_dispatch:
